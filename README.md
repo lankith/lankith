@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Ankitha 👋
 
-<!--
-**lankith/lankith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year ECE student in Bengaluru, building embedded firmware.
 
-Here are some ideas to get you started:
+## What I'm working on
+- FreeRTOS multitasking on ESP32
+- STM32 Blue Pill with PlatformIO
+- IoT projects using Wokwi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Projects
+https://github.com/lankith/ESP32-IoT - 7 IoT projects
+(https://wokwi.com/projects/478848377827573761) - simulation system
+(https://wokwi.com/projects/480652044747465729) - sensor, display, alarm tasks
+
+## Skills
+## Skills
+**Languages:** C, C++, Python, MATLAB
+**Embedded:** FreeRTOS, STM32, ESP32, GPIO, Interrupts (EXTI), UART
+**Tools:** PlatformIO, Wokwi, Git & GitHub, VS Code
+**Concepts:** RTOS scheduling, Mutex, IoT, Sensor interfacing
+
+## Contact
+📧 ankita12venkatesh@gmail.com
 -->
